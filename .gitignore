@@ -1,0 +1,12 @@
+*.o
+*.a
+*.log
+
+Makefile
+
+*.so.*
+
+config.status
+
+nbcompat/config.h
+nbcompat/nbconfig.h
